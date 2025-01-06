@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--История-->
+    <array name="history_image">
+        <item>@drawable/zdanie</item>
+        <item>@drawable/history</item>
+        <item>@drawable/export</item>
+        <item>@drawable/money_percent</item>
+    </array>
+    <string-array name="history_title">
+        <item>Краткая информация</item>
+        <item>История</item>
+        <item>Экспорт</item>
+        <item>Деятельность</item>
+    </string-array>
+    <string-array name="history_description">
+        <item />
+        <item />
+        <item />
+        <item />
+    </string-array>
+
+    <!--классика-->
+    <array name="classic_image">
+        <item>@drawable/kopeika</item>
+        <item>@drawable/dvoika</item>
+        <item>@drawable/troika</item>
+        <item>@drawable/chetverka</item>
+        <item>@drawable/pyaterka</item>
+        <item>@drawable/shesterka</item>
+        <item>@drawable/semerka</item>
+    </array>
+    <string-array name="classic_title">
+        <item>ВАЗ-2101-"Копейка"</item>
+        <item>ВАЗ-2102-"Двойка"</item>
+        <item>ВАЗ-2103-"Тройка"</item>
+        <item>ВАЗ-2104-"Четвёрка"</item>
+        <item>ВАЗ-2105-"Пятёрка"</item>
+        <item>ВАЗ-2106-"Шестёрка"</item>
+        <item>ВАЗ-2107-"Семёрка"</item>
+    </string-array>
+    <string-array name="classic_description">
+        <item>Родоначальник модельного ряда Волжского автозавода</item>
+        <item>Копейка в кузове универсал, первый универсал ВАЗ</item>
+        <item>Первая "люкс" модель в модельном ряду</item>
+        <item>Второй универсал от ВАЗ, на базе ВАЗ-2105</item>
+        <item>Родоначальник "второго", сильно модернизированного первого поколения</item>
+        <item>Модернизированный ВАЗ-2103</item>
+        <item>Вторая "люкс" модель в ряду ВАЗ, последняя из "классики"</item>
+    </string-array>
+
+    <!--Нива-->
+    <array name="niva_image">
+        <item>@drawable/niva</item>
+        <item>@drawable/shevy_niva</item>
+    </array>
+    <string-array name="niva_title">
+        <item>Классическая Нива (Legend)</item>
+        <item>"Шеви"-Нива (Travel)</item>
+    </string-array>
+    <string-array name="niva_description">
+        <item>Классическая Нива, какой все её знают</item>
+        <item>Нива разработки конца 90х годов, "второе поколение"</item>
+    </string-array>
+
+    <!--Самара-1 и Самара-2-->
+    <array name="samara_image">
+        <item>@drawable/vosmerka</item>
+        <item>@drawable/devyatka</item>
+        <item>@drawable/devyat_devyat</item>
+        <item>@drawable/trinashka</item>
+        <item>@drawable/chetyrka</item>
+        <item>@drawable/pyatnashka</item>
+    </array>
+    <string-array name="samara_title">
+        <item>ВАЗ-2108-"Восьмёрка"</item>
+        <item>ВАЗ-2109-"Девятка"</item>
+        <item>ВАЗ-21099-"Девять-девять"</item>
+        <item>ВАЗ-2113-"Тринашка"</item>
+        <item>ВАЗ-2114-"Четырка"</item>
+        <item>ВАЗ-2115-"Пятнашка"</item>
+    </string-array>
+    <string-array name="samara_description">
+        <item>Родоначальник переднеприводных автомобилей ВАЗ</item>
+        <item>Восьмёрка в пятидверном варианте кузова</item>
+        <item>Девятка в варианте кузова седан</item>
+        <item>"Рестайлинг" восьмёрки</item>
+        <item>"Рестайлинг" девятки</item>
+        <item>"Рестайлинг" девяносто-девятой</item>
+    </string-array>
+
+    <!--Ока-->
+    <array name="oka_image">
+        <item>@drawable/oka</item>
+    </array>
+    <string-array name="oka_title">
+        <item>Ока</item>
+    </string-array>
+    <string-array name="oka_description">
+        <item>Самый маленький автомобиль в линейке ВАЗ</item>
+    </string-array>
+
+    <!--2110 и приора-->
+    <array name="priora_image">
+        <item>@drawable/desyatka</item>
+        <item>@drawable/odinadcataya</item>
+        <item>@drawable/dvenashka</item>
+        <item>@drawable/priora</item>
+    </array>
+    <string-array name="priora_title">
+        <item>ВАЗ-2110-"Десятка"</item>
+        <item>ВАЗ-2111-"Одиннадцатая"</item>
+        <item>ВАЗ-2112-"Двенашка"</item>
+        <item>ВАЗ-2170, 2171, 2172, 2173 -"Приора"</item>
+    </string-array>
+    <string-array name="priora_description">
+        <item>Родоначальник третьего поколения автомобилей ВАЗ</item>
+        <item>Десятка в кузове универсал</item>
+        <item>Десятка в кузове хетчбэк</item>
+        <item>Глубокая модернизация семейства 110</item>
+    </string-array>
+
+    <!--Калины и гранта-->
+    <array name="kalina_image">
+        <item>@drawable/kalina</item>
+        <item>@drawable/kalina_2</item>
+        <item>@drawable/granta</item>
+    </array>
+    <string-array name="kalina_title">
+        <item>ВАЗ-1117, ВАЗ-1118, ВАЗ-1119 -"Калина"</item>
+        <item>ВАЗ-2192, ВАЗ-2194 - "Калина-2"</item>
+        <item>ВАЗ-2190, ВАЗ-2191 - "Гранта"</item>
+    </string-array>
+    <string-array name="kalina_description">
+        <item>Ягодка, призвана быть в одном стиле с появившимся в конце 90-х ВАЗ-2123</item>
+        <item>Второе поколение Калины, а точнее глубокий рестайлинг</item>
+        <item>Упрощённая модель, призвана была заменить устаревшую классику в начале 10-х годов</item>
+    </string-array>
+
+    <!--веста, хрэй, ларгус-->
+    <array name="renault_image">
+        <item>@drawable/vesta</item>
+        <item>@drawable/x_ray</item>
+        <item>@drawable/largus</item>
+    </array>
+    <string-array name="renault_title">
+        <item>Lada Vesta</item>
+        <item>Lada X-Ray</item>
+        <item>Lada Largus</item>
+    </string-array>
+    <string-array name="renault_description">
+        <item>Давно ожидаемое новое поколение ВАЗ, увидевшее свет в конце 2015г</item>
+        <item>Как же далеко от концепта...</item>
+        <item>Dacia Logan MCV со значком Лада</item>
+    </string-array>
+
+</resources>

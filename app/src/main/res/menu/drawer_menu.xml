@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_history"
+            android:title="История завода"
+            android:fontFamily="@font/lada_pragmatica"
+            app:showAsAction="always"/>
+        <item
+            android:id="@+id/id_classic"
+            android:fontFamily="@font/lada_pragmatica"
+            android:title="Классика"/>
+        <item
+            android:id="@+id/id_niva"
+            android:fontFamily="@font/lada_pragmatica"
+            android:title="Нива"/>
+        <item
+            android:id="@+id/id_samara"
+            android:fontFamily="@font/lada_pragmatica"
+            android:title="Самара-1 и Самара-2"/>
+        <item
+            android:id="@+id/id_oka"
+            android:fontFamily="@font/lada_pragmatica"
+            android:title="Ока"/>
+        <item
+            android:id="@+id/id_desyatka"
+            android:fontFamily="@font/lada_pragmatica"
+            android:title="Десятое семейство и Приора"/>
+        <item
+            android:id="@+id/id_kalina"
+            android:fontFamily="@font/lada_pragmatica"
+            android:title="Калина, Калина-2, Гранта"/>
+        <item
+            android:id="@+id/id_vesta"
+            android:fontFamily="@font/lada_pragmatica"
+            android:title="Веста, Икс-Рэй, Ларгус"/>
+        </group>
+</menu>
